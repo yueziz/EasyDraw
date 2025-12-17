@@ -134,8 +134,13 @@
 
 ### 主界面与绘图
 
-*(此处建议替换为实际运行截图)*
+<img width="1886" height="990" alt="image" src="https://github.com/user-attachments/assets/6d4920d8-c41d-42aa-8d6d-ca16b24b3d85" />
+
 
 ### 单元测试通过
 
-*(此处建议替换为单元测试全绿的截图)*
+<img width="1315" height="696" alt="image" src="https://github.com/user-attachments/assets/6efe38ef-3c51-4626-882d-fcb981d8c96d" />
+
+<img width="1493" height="155" alt="d659b593bb3a560a2747be612e2a98d2" src="https://github.com/user-attachments/assets/aeb75eb8-686d-4e87-b571-93f28553b497" />
+
+<img width="1511" height="181" alt="9bbe970dc7fd0446f3cfcad158f0c13d" src="https://github.com/user-attachments/assets/3820db82-3512-477d-8594-d126ec67a747" />
