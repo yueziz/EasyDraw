@@ -106,18 +106,21 @@
 
 ## 📂 项目结构 (Project Structure)
 
-EasyDraw/
-├── Core.h              # 核心模型定义 (IShape, ShapeFactory, CommandManager)
-├── Serializer.h/.cpp   # 文件序列化逻辑
-├── EasyDrawDoc.h/.cpp  # 文档类 (管理数据模型)
-├── EasyDrawView.h/.cpp # 视图类 (处理绘图交互与渲染)
-├── MainFrm.h/.cpp      # 主框架窗口 (处理菜单与多语言)
-├── EasyDraw.h/.cpp     # 应用程序入口与 GDI+ 初始化
-└── res/                # 资源文件 (图标, 菜单, 字符串表)
+ EasyDraw/
+ 
+ ├── Core.h              # 核心模型定义 (IShape, ShapeFactory, CommandManager)
+ 
+ ├── Serializer.h/.cpp   # 文件序列化逻辑
+ 
+ ├── EasyDrawDoc.h/.cpp  # 文档类 (管理数据模型)
+ ├── EasyDrawView.h/.cpp # 视图类 (处理绘图交互与渲染)
+ ├── MainFrm.h/.cpp      # 主框架窗口 (处理菜单与多语言)
+ ├── EasyDraw.h/.cpp     # 应用程序入口与 GDI+ 初始化
+ └── res/                # 资源文件 (图标, 菜单, 字符串表)
 
-EasyDrawTests/          # 单元测试项目
-├── UnitTests.cpp       # GoogleTest 测试用例
-└── ...
+ EasyDrawTests/          # 单元测试项目
+ ├── UnitTests.cpp       # GoogleTest 测试用例
+ └── ...
 
 
 ## 📷 截图 (Screenshots)
